@@ -1,0 +1,16 @@
+.input-search {
+  display: block;
+  text-align: center;
+  padding: 20px 0;
+  margin: 100px auto 50px;
+
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.137);
+
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.input-search::placeholder {
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+}
